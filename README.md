@@ -2,9 +2,9 @@
 
 ## Description
 
-Panval Chrome Extension is a browser extension designed to focus on the study without distraction of social media.]
+Panval Chrome Extension is a browser extension designed to focus on the study without distraction of social media.
 
-This extension is lightweight, fast, and easy to use, allowing you to [describe core features or functions, e.g., "automatically save your browser tabs, translate text, track your activities, etc."]
+This extension is lightweight, fast, and easy to use."
 
 ## Installation
 
