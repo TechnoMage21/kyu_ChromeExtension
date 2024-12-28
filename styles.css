@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  h1{
+    font-size: 45px;
+    height: auto;
+    color: #fff200;
+    outline: #000;
+  }
+
+  video{
+    width: 75%;
+    
+
+  }
+
+  @keyframes blink {
+    0% { color: yellow; }
+    50% { color: black; }
+    100% { color: yellow; }
+  }
+  
+  .blink {
+    animation: blink 0.2s infinite alternate;
+  }
